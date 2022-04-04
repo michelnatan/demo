@@ -1,6 +1,9 @@
 # demo
 
-Learning Github
+Learning Github now
 
 1. I know how to push modifications to Github
-2. Pending
+
+
+
+final
